@@ -63,3 +63,27 @@ h1{
     padding-left: 2em;
     padding-right: 2em;
 }
+
+.imgTextOverlay{
+    position: relative;
+    text-align: center;
+    color: #ffffff;
+}
+
+.imgTextOverlay img{
+    width: 100%;
+}
+
+.bottomLeft{
+    position:absolute;
+    bottom: 8px;
+    left: 16px,
+
+}
+
+.topRight{
+    position:absolute;
+    bottom: 8px;
+    left: 16px,
+
+}
